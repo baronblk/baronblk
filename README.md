@@ -11,9 +11,9 @@ Software Developer aus Deutschland 🇩🇪
 
 ### Apps
 
-- **tramdriverclass** — Tram Fahrschule · Lern-App für Straßenbahnfahrer
-- **geophoto** — Geotagging & Foto-Management App
-- **PathPioneer** — Offline Adventure Logger für Radfahren
+- **tramdriverclass** — Tram Fahrschule · Lern-App für Straßenbahnfahrer *(privat)*
+- **geophoto** — Geotagging & Foto-Management App *(privat)*
+- **PathPioneer** — Offline Adventure Logger für Radfahren *(privat)*
 
 ### Tools & Automation
 
